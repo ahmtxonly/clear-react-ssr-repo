@@ -1,0 +1,55 @@
+.root {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: var(--grey8);
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 0 100px;
+  max-width: var(--max-content-width);
+}
+
+.modalContent {
+  padding: 0;
+  max-height: 80%;
+  border-radius: 8px;
+}
+
+.tagsContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  margin-top: 10px;
+
+  a {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.tribunContainer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 10px;
+
+  a {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.watchLiveAndSportotoContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+
+  a:first-child {
+    margin-bottom: 10px;
+  }
+}
+
+.sliderAndPopularContainer {
+  display: flex;
+  padding: 10px;
+}

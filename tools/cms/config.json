@@ -1,0 +1,17 @@
+{
+  "development": {
+    "parameterUrl": "parameterUrl",
+    "messagesUrl": "messagesUrl",
+    "desktopParametersUrl": "desktopParametersUrl"
+  },
+  "production": {
+    "parameterUrl": "parameterUrl",
+    "messagesUrl": "messagesUrl",
+    "desktopParametersUrl": "desktopParametersUrl"
+  },
+  "test": {
+    "parameterUrl": "parameterUrl",
+    "messagesUrl": "messagesUrl",
+    "desktopParametersUrl": "desktopParametersUrl"
+  }
+}

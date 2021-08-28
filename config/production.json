@@ -1,0 +1,7 @@
+{
+  "PORT": "3000",
+  "API_GATEWAY": "https://ygoogle.com",
+  "ALTERNATIVE_API_GATEWAY": "http://ygoogle2.com",
+  "GTM_CODE": "xxxx",
+  "GA_CODE": "xxxx"
+}
